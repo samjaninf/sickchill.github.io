@@ -1088,6 +1088,7 @@ SBS (AU):Australia/Lord_Howe
 SBS (KR):Asia/Seoul
 SBS 6:Europe/Amsterdam
 SBS Plus:Asia/Seoul
+SBS:Australia/Lord_Howe
 SBT:America/Noronha
 SEC Network:America/New_York
 SET Metro:Asia/Taipei
@@ -1526,7 +1527,7 @@ Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
 Viasat3:Europe/Budapest
-Vice on TV (US):America/New_York
+Vice TV (US):America/New_York
 Viceland (CA):America/St_Johns
 Viceland (FR):Europe/Paris
 Viceland (NL):Europe/Amsterdam
